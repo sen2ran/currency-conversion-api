@@ -16,6 +16,20 @@ $ cd currency-conversion-api
 $ npm install
 $ npm run start 
 ```
+
+API:
+```sh
+curl :baseURL/api/:FromCurrency/:ToCurrency
+```
+
+Response:
+```sh
+{
+    "value": "146.50"
+}
+```
+
+
 [ExpressJS]: https://expressjs.com/
 [Axios]: https://www.npmjs.com/package/axios
 [Dotenv]: https://www.npmjs.com/package/dotenv
