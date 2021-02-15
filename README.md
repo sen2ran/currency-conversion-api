@@ -16,7 +16,7 @@ $ cd currency-conversion-api
 $ npm install
 $ npm run start 
 ```
-[ExpressJS] - https://expressjs.com/
-[Axios] - https://www.npmjs.com/package/axios
-[Dotenv] : https://www.npmjs.com/package/dotenv
-[ExpressJSAsyncErrors] : https://www.npmjs.com/package/express-async-errors
+[ExpressJS]: https://expressjs.com/
+[Axios]: https://www.npmjs.com/package/axios
+[Dotenv]: https://www.npmjs.com/package/dotenv
+[ExpressJSAsyncErrors]: https://www.npmjs.com/package/express-async-errors
