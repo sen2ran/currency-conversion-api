@@ -25,7 +25,7 @@ curl :baseURL/api/:FromCurrency/:ToCurrency
 Response:
 ```sh
 {
-    "value": "146.50"
+    "value": "xx.xx"
 }
 ```
 
